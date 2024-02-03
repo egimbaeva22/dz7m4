@@ -6,8 +6,8 @@ function App() {
   return (
     <>
         {/*Choose one of the components to see the example*/}
-        {/*<UseMemo/>*/}
-        <UseCallback/>
+        <UseMemo/>
+        {/*<UseCallback/>*/}
     </>
   )
 }
